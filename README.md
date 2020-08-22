@@ -16,3 +16,6 @@ A generic fucntion to split a huge csv file into multiple csv files based on inp
   
 ### Credit:
 https://gist.github.com/jrivero/1085501
+
+### Note: 
+Small correction made in code compatible to Python 3.0+
